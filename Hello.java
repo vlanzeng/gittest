@@ -6,6 +6,7 @@ public class Hello{
         System.out.println("dddeee");
 System.out.println("dddeee");
 System.out.println("dddeee");
-System.out.println("我回来了！！");
+System.out.println("鎴戝洖鏉ヤ簡锛侊紒");
+System.out.println("鎴戝洖鏉ヤ簡锛侊紒2");
 }
 }
